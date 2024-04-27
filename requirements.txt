@@ -1,0 +1,4 @@
+fycharts
+pandas
+requests
+spotipy
