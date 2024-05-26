@@ -1,7 +1,6 @@
 Of note, this directory contains:
-- A raw dataset of Spotify Charts weekly top-200 songs for various regions and weeks
-- A Jupyter notebook for transforming and validating that dataset
-- An output folder containing the most recent transformation of that dataset
+- A dataset (`known_final_dataset`) containing Spotify Charts for the year 2023 that has been augmented with additional data from the Spotify API and MusicBrainz API
+- A Jupyter notebook for transforming and validating that dataset. This notebook also contains additional information about this dataset (for interested readers)
 
 In order to run the code in the Jupyter notebook, make sure to first:
 - Install Jupyter Notebook
